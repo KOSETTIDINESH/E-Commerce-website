@@ -1,0 +1,22 @@
+[
+  {
+    "id": "usr-admin-01",
+    "created_at": "2026-10-21T11:09:16.966Z",
+    "updated_at": "2026-10-21T11:09:16.967Z",
+    "name": "Six Wings Head Administrator",
+    "email": "admin@sixwings.com",
+    "password_hash": "$2a$10$LiKN.2947JVAz77bPnEoKuZy8NbjBIowjyuHON0RYWgxCdjxeN/LS",
+    "role": "admin",
+    "phone": "+91 98765 43210"
+  },
+  {
+    "id": "usr-demo-02",
+    "created_at": "2026-10-21T11:09:16.971Z",
+    "updated_at": "2026-10-21T11:09:16.971Z",
+    "name": "Alex Turner",
+    "email": "alex@example.com",
+    "password_hash": "$2a$10$LiKN.2947JVAz77bPnEoKuvnZhmgXCgpsICGzxK3x6pMMVgskO5za",
+    "role": "customer",
+    "phone": "+91 91234 56789"
+  }
+]

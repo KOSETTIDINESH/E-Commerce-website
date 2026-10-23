@@ -1,0 +1,205 @@
+[
+  {
+    "id": "prod-001",
+    "created_at": "2026-10-21T11:09:16.974Z",
+    "updated_at": "2026-10-21T11:09:16.974Z",
+    "name": "Six Wings Signature Heavyweight Oversized Tee",
+    "slug": "six-wings-signature-heavyweight-oversized-tee",
+    "category": "oversized",
+    "gender": "unisex",
+    "price": 799,
+    "original_price": 1499,
+    "description": "Crafted from 280 GSM premium French terry cotton. Features dropped shoulders, reinforced double-needle ribbed collar, and signature tonal Six Wings wing embroidery at chest.",
+    "images": [
+      "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?q=80&w=1000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?q=80&w=1000&auto=format&fit=crop"
+    ],
+    "is_featured": true,
+    "is_new_arrival": true,
+    "rating": 4.9,
+    "reviews_count": 128,
+    "is_active": true
+  },
+  {
+    "id": "prod-002",
+    "created_at": "2026-10-21T11:09:16.987Z",
+    "updated_at": "2026-10-21T11:09:16.987Z",
+    "name": "Wings of Freedom Anime Oversized Graphic Tee",
+    "slug": "wings-of-freedom-anime-oversized-graphic-tee",
+    "category": "anime",
+    "gender": "unisex",
+    "price": 899,
+    "original_price": 1699,
+    "description": "High-density silk-screened neo-Tokyo graphic on 240 GSM combed ring-spun cotton. Distressed edges and Japanese typography on back and sleeve.",
+    "images": [
+      "https://images.unsplash.com/photo-1576566588028-4147f3842f27?q=80&w=1000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?q=80&w=1000&auto=format&fit=crop"
+    ],
+    "is_featured": true,
+    "is_new_arrival": true,
+    "rating": 4.8,
+    "reviews_count": 94,
+    "is_active": true
+  },
+  {
+    "id": "prod-003",
+    "created_at": "2026-10-21T11:09:16.997Z",
+    "updated_at": "2026-10-21T11:09:16.997Z",
+    "name": "Shadow Blade Cyber Anime Boxy Tee",
+    "slug": "shadow-blade-cyber-anime-boxy-tee",
+    "category": "anime",
+    "gender": "unisex",
+    "price": 849,
+    "original_price": 1599,
+    "description": "Cyberpunk anime aesthetic tee with manga frame artwork, tonal dark violet accents, and an ultra-relaxed boxy cut.",
+    "images": [
+      "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?q=80&w=1000&auto=format&fit=crop"
+    ],
+    "is_featured": true,
+    "is_new_arrival": false,
+    "rating": 4.7,
+    "reviews_count": 62,
+    "is_active": true
+  },
+  {
+    "id": "prod-004",
+    "created_at": "2026-10-21T11:09:17.005Z",
+    "updated_at": "2026-10-21T11:09:17.005Z",
+    "name": "Archangel 400 GSM Heavyweight Fleece Hoodie",
+    "slug": "archangel-400-gsm-heavyweight-fleece-hoodie",
+    "category": "hoodies",
+    "gender": "unisex",
+    "price": 1999,
+    "original_price": 3499,
+    "description": "Unapologetically thick 400 GSM brushed fleece. Double-ply hood without drawstrings for a clean architectural silhouette. Hidden device pocket inside kangaroo pouch.",
+    "images": [
+      "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?q=80&w=1000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1509967419530-da38b4704bc6?q=80&w=1000&auto=format&fit=crop"
+    ],
+    "is_featured": true,
+    "is_new_arrival": true,
+    "rating": 5,
+    "reviews_count": 180,
+    "is_active": true
+  },
+  {
+    "id": "prod-005",
+    "created_at": "2026-10-21T11:09:17.014Z",
+    "updated_at": "2026-10-21T11:09:17.014Z",
+    "name": "Relaxed Cuban Camp Collar Linen Shirt",
+    "slug": "relaxed-cuban-camp-collar-linen-shirt",
+    "category": "shirts",
+    "gender": "men",
+    "price": 1299,
+    "original_price": 2299,
+    "description": "Airy European flax linen blend tailored with a retro notched collar, relaxed straight hem, and natural shell buttons.",
+    "images": [
+      "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?q=80&w=1000&auto=format&fit=crop"
+    ],
+    "is_featured": false,
+    "is_new_arrival": false,
+    "rating": 4.6,
+    "reviews_count": 45,
+    "is_active": true
+  },
+  {
+    "id": "prod-006",
+    "created_at": "2026-10-21T11:09:17.022Z",
+    "updated_at": "2026-10-21T11:09:17.022Z",
+    "name": "Vintage Flannel Overshirt — Slate Tartan",
+    "slug": "vintage-flannel-overshirt-slate-tartan",
+    "category": "shirts",
+    "gender": "unisex",
+    "price": 1499,
+    "original_price": 2599,
+    "description": "Heavyweight double-brushed cotton flannel. Features chest flap pockets with button closures and adjustable cuffs. Built for effortless layering.",
+    "images": [
+      "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?q=80&w=1000&auto=format&fit=crop"
+    ],
+    "is_featured": false,
+    "is_new_arrival": true,
+    "rating": 4.8,
+    "reviews_count": 53,
+    "is_active": true
+  },
+  {
+    "id": "prod-007",
+    "created_at": "2026-10-21T11:09:17.028Z",
+    "updated_at": "2026-10-21T11:09:17.028Z",
+    "name": "Wide-Leg Washed Carpenter Denim Jeans",
+    "slug": "wide-leg-washed-carpenter-denim-jeans",
+    "category": "jeans",
+    "gender": "unisex",
+    "price": 1899,
+    "original_price": 3299,
+    "description": "Authentic 13.5 oz non-stretch cotton denim in a classic vintage stonewash. Features utilitarian side hammer loop, double-layer pockets, and a modern wide drape.",
+    "images": [
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?q=80&w=1000&auto=format&fit=crop"
+    ],
+    "is_featured": true,
+    "is_new_arrival": false,
+    "rating": 4.9,
+    "reviews_count": 110,
+    "is_active": true
+  },
+  {
+    "id": "prod-008",
+    "created_at": "2026-10-21T11:09:17.035Z",
+    "updated_at": "2026-10-21T11:09:17.035Z",
+    "name": "Wings Tactical Flight Bomber Jacket",
+    "slug": "wings-tactical-flight-bomber-jacket",
+    "category": "jackets",
+    "gender": "unisex",
+    "price": 2899,
+    "original_price": 4999,
+    "description": "Water-repellent satin flight nylon with diamond-quilted thermal insulation. Finished with heavy-duty metal zips, utility sleeve pocket, and ribbed wool collar.",
+    "images": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?q=80&w=1000&auto=format&fit=crop"
+    ],
+    "is_featured": true,
+    "is_new_arrival": true,
+    "rating": 4.9,
+    "reviews_count": 88,
+    "is_active": true
+  },
+  {
+    "id": "prod-009",
+    "created_at": "2026-10-21T11:09:17.041Z",
+    "updated_at": "2026-10-21T11:09:17.041Z",
+    "name": "Monochrome Minimalist Cropped Baby Tee",
+    "slug": "monochrome-minimalist-cropped-baby-tee",
+    "category": "women",
+    "gender": "women",
+    "price": 699,
+    "original_price": 1299,
+    "description": "Super-soft 210 GSM stretch cotton rib. Subtle cropped length with lettuce edge hem and tonal wings logo print.",
+    "images": [
+      "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?q=80&w=1000&auto=format&fit=crop"
+    ],
+    "is_featured": false,
+    "is_new_arrival": true,
+    "rating": 4.7,
+    "reviews_count": 39,
+    "is_active": true
+  },
+  {
+    "id": "prod-010",
+    "created_at": "2026-10-21T11:09:17.048Z",
+    "updated_at": "2026-10-21T11:09:17.048Z",
+    "name": "Tokyo Cyberpunk Embroidered Souvenir Jacket",
+    "slug": "tokyo-cyberpunk-embroidered-souvenir-jacket",
+    "category": "anime",
+    "gender": "unisex",
+    "price": 3299,
+    "original_price": 5999,
+    "description": "Collector edition reversible Sukajan jacket. 120,000 stitches of high-definition anime winged dragon embroidery on Japanese satin.",
+    "images": [
+      "https://images.unsplash.com/photo-1544441893-675973e31985?q=80&w=1000&auto=format&fit=crop"
+    ],
+    "is_featured": true,
+    "is_new_arrival": false,
+    "rating": 5,
+    "reviews_count": 76,
+    "is_active": true
+  }
+]
